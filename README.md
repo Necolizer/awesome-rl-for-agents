@@ -66,4 +66,15 @@ A curated list of reinforcement learning (RL) for agents.
 - **awesome-ml-agents** [[List]](https://github.com/tokarev-i-v/awesome-llm-rl-agents) - covering rl and agents before 2023
 
 ## 🤝 Contributing
-> (Coming soon...)
+
+Contributions are warmly welcome!
+
+If you know a paper, tool, environment, or demo relevant to **RL for Agents**, feel free to open a pull request.
+
+### Guidelines:
+- Make sure the resource is publicly accessible and active.
+- Use the same format as existing entries: `- **Name**: Title [Paper](link) [Code](link) – short description (optional).`
+- Add entries under the most appropriate section.
+- Avoid duplicates or resources that are already well-covered elsewhere.
+
+We aim to keep this list high-quality, practical, and focused. Thank you for helping improve it! ✨
