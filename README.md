@@ -38,6 +38,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
 
 ## 🕹 Benchmarks
+- **BrowseComp**: a benchmark for browsing agents [[Blog]](https://openai.com/index/browsecomp/) [[Paper]](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) [[Code]](https://github.com/openai/simple-evals)
 - **Computer Agent Arena**: Compare & Test AI Agents on Crowdsourced Real-World Computer Use Tasks [[Platform]](https://arena.xlang.ai/) [[Code]](https://github.com/xlang-ai/computer-agent-arena)
 - **ScreenSpot-Pro**: GUI Grounding for Professional High-Resolution Computer Use [[Paper]](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf) [[Code]](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
 - **OSWorld**: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [[NeurIPS'24]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html) [[Code]](https://github.com/xlang-ai/OSWorld)
