@@ -26,6 +26,7 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL for Tool-using Problem Solver
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
+- **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Agent Planning
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
