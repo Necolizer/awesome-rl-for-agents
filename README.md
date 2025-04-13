@@ -32,6 +32,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ### Reinforcement Learning Scaling
+- **Skywork-OR1 (Open Reasoner 1)** [[Blog]](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680) [[Code]](https://github.com/SkyworkAI/Skywork-OR1)
 - **VAPO**: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks [[Preprint'25]](https://arxiv.org/abs/2504.05118)
 - **DAPO**: An Open-Source LLM Reinforcement Learning System at Scale [[Preprint'25]](https://arxiv.org/abs/2503.14476v1) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
 - **LIMR**: Less is More for RL Scaling [[Preprint'25]](https://arxiv.org/abs/2502.11886) [[Code]](https://github.com/GAIR-NLP/LIMR)
@@ -57,6 +58,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### MCP Agents
 - **mcp-agent** [[Code]](https://github.com/lastmile-ai/mcp-agent)
+- **Agent2Agent (A2A) protocol** [[Code]](https://github.com/google/A2A)
 
 ## 🧰 Toolkits & Frameworks
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
