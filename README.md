@@ -64,7 +64,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 
 ## 📄 Tutorials & Blog Posts
-> (Coming soon...)
+- **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
 - **Awesome-Agent-RL** [[List]](https://github.com/0russwest0/Awesome-Agent-RL) - covering RL for research agents
