@@ -32,6 +32,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ### Reinforcement Learning Scaling
+- A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce [[Preprint'25]](https://arxiv.org/abs/2504.11343)
 - **o3 & o4-mini**: Introducing OpenAI o3 and o4-mini [[Blog]](https://openai.com/index/introducing-o3-and-o4-mini/)
 - **Skywork-OR1 (Open Reasoner 1)** [[Blog]](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680) [[Code]](https://github.com/SkyworkAI/Skywork-OR1)
 - **VAPO**: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks [[Preprint'25]](https://arxiv.org/abs/2504.05118)
