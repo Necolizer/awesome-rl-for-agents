@@ -22,6 +22,7 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL for Computer-using Agents
 - **UI-R1**: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs//2503.21620) [[Code]](https://github.com/lll6gg/UI-R1)
 - **Digi-Q**: Learning Q-Value Functions for Training Device-Control Agents [[Preprint'25]](https://arxiv.org/abs/2502.15760) [[Code]](https://github.com/DigiRL-agent/digiq)
+- **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Tool-using Problem Solver
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
