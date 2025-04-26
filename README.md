@@ -20,11 +20,14 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 📚 Papers & Research
 ### RL for Computer-using Agents
+- **InfiGUI-R1**: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners [[Preprint'25]](https://arxiv.org/abs/2504.14239) [[Code]](https://github.com/Reallm-Labs/InfiGUI-R1)
+- **Cracking the Code of Action**: a Generative Approach to Affordances for Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.17282)
 - **UI-R1**: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs//2503.21620) [[Code]](https://github.com/lll6gg/UI-R1)
 - **Digi-Q**: Learning Q-Value Functions for Training Device-Control Agents [[Preprint'25]](https://arxiv.org/abs/2502.15760) [[Code]](https://github.com/DigiRL-agent/digiq)
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Tool-using Problem Solver
+- **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
