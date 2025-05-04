@@ -57,6 +57,7 @@ A curated list of reinforcement learning (RL) for agents.
 ## 🧪 Demos & Projects
 
 ### RL-based LLM agent tuning
+- **VAGEN**: Training VLM Agents with Multi-Turn Reinforcement Learning [[Code]](https://github.com/RAGEN-AI/vagen)
 - **OpenManus-RL** [[Code]](https://github.com/OpenManus/OpenManus-RL) & **OpenManus** [[Code]](https://github.com/mannaandpoem/OpenManus)
 - **RAGEN**: Training Agents by Reinforcing Reasoning [[Code]](https://github.com/ZihanWang314/ragen)
 
