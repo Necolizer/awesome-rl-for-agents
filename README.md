@@ -26,6 +26,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **Digi-Q**: Learning Q-Value Functions for Training Device-Control Agents [[Preprint'25]](https://arxiv.org/abs/2502.15760) [[Code]](https://github.com/DigiRL-agent/digiq)
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
+### RL for Research Agents
+- **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
+
 ### RL for Tool-using Problem Solver
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
