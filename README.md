@@ -28,13 +28,13 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Research Agents
 - **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
+- **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Tool-using Problem Solver
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
-- **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Agent Planning
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
@@ -60,6 +60,7 @@ A curated list of reinforcement learning (RL) for agents.
 ## 🧪 Demos & Projects
 
 ### RL-based LLM agent tuning
+- **SkyRL-v0**: Train Real-World Long-Horizon Agents via Reinforcement Learning [[Blog]](https://novasky-ai.notion.site/skyrl-v0) [[Code]](https://github.com/NovaSky-AI/SkyRL)
 - **Agent-R1**: Training Powerful LLM Agents with End-to-End Reinforcement Learning [[Code]](https://github.com/0russwest0/Agent-R1)
 - **VAGEN**: Training VLM Agents with Multi-Turn Reinforcement Learning [[Code]](https://github.com/RAGEN-AI/vagen)
 - **OpenManus-RL** [[Code]](https://github.com/OpenManus/OpenManus-RL) & **OpenManus** [[Code]](https://github.com/mannaandpoem/OpenManus)
