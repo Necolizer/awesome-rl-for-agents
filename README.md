@@ -29,6 +29,7 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL for Research Agents
 - **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
 - **ReCall**: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.19470) [[Code]](https://github.com/Agent-RL/ReCall)
+- **Search-R1**: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.09516) [[Code]](https://github.com/petergriffinjin/search-r1)
 - **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Tool-using Problem Solver
