@@ -79,6 +79,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agent2Agent (A2A) protocol** [[Code]](https://github.com/google/A2A)
 
 ## 🧰 Toolkits & Frameworks
+- **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [[Code]](https://github.com/alibaba/ROLL)
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 
 ## 📄 Tutorials & Blog Posts
