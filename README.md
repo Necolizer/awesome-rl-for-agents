@@ -2,8 +2,7 @@
 
 A curated list of reinforcement learning (RL) for agents.
 
-> This list collects papers, tools, and demos that demonstrate how reinforcement learning can be applied to train or tune agents — with a primary focus on computer-using agents (e.g. GUI, web, and MCP agents), and supplementary coverage of related topics within the broader scope of RL for agents.
-
+> This list collects papers, tools, and demos that demonstrate how reinforcement learning can be applied to train or tune LLM/MLLM agents, with a focus on research-driven, computer-using, and tool-integrated agent behaviors.
 ---
 
 ## Table of Contents
