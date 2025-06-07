@@ -33,6 +33,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Tool-using Problem Solver
+- Self-Challenging Language Model Agents [[Preprint'25]](https://arxiv.org/abs/2506.01716v1)
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
