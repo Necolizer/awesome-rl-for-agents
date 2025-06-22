@@ -26,6 +26,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Research Agents
+- **Kimi-Researcher**: End-to-End RL Training for Emerging Agentic Capabilities [[Blog]](https://moonshotai.github.io/Kimi-Researcher/)
 - **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
 - **DeepResearcher**: Scaling Deep Research via Reinforcement Learning in Real-world Environments [[Preprint'25]](https://arxiv.org/abs/2504.03160) [[Code]](https://github.com/GAIR-NLP/DeepResearcher)
 - **ReCall**: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.19470) [[Code]](https://github.com/Agent-RL/ReCall)
