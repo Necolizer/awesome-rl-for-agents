@@ -37,6 +37,7 @@ A curated list of reinforcement learning (RL) for agents.
 - Self-Challenging Language Model Agents [[Preprint'25]](https://arxiv.org/abs/2506.01716v1)
 - **VisualToolAgent (VisTA)**: A Reinforcement Learning Framework for Visual Tool Selection [[Preprint'25]](https://arxiv.org/abs/2505.20289) [[Code]](https://github.com/OoDBag/VisTA)
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
+- **ToolRL**: Reward is All Tool Learning Needs [[Preprint'25]](https://arxiv.org/abs/2504.13958) [[Code]](https://github.com/qiancheng0/ToolRL)
 - **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [[Preprint'25]](https://arxiv.org/abs/2504.11536)
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
