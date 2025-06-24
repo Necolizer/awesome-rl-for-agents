@@ -27,6 +27,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Research Agents
 - **Kimi-Researcher**: End-to-End RL Training for Emerging Agentic Capabilities [[Blog]](https://moonshotai.github.io/Kimi-Researcher/)
+- **R-Search**: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2506.04185) [[Code]](https://github.com/QingFei1/R-Search)
 - **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
 - **DeepResearcher**: Scaling Deep Research via Reinforcement Learning in Real-world Environments [[Preprint'25]](https://arxiv.org/abs/2504.03160) [[Code]](https://github.com/GAIR-NLP/DeepResearcher)
 - **ReCall**: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.19470) [[Code]](https://github.com/Agent-RL/ReCall)
