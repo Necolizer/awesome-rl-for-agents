@@ -58,6 +58,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **DeepSeek-R1**: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2501.12948)
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
 
+### Survey & Review
+- **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
+
 ## 🕹 Benchmarks
 - **BrowseComp-ZH**: Benchmarking the Web Browsing Ability of Large Language Models in Chinese [[Preprint'25]](https://arxiv.org/abs/2504.19314) [[Code]](https://github.com/PALIN2018/BrowseComp-ZH)
 - **BrowseComp**: a benchmark for browsing agents [[Blog]](https://openai.com/index/browsecomp/) [[Paper]](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) [[Code]](https://github.com/openai/simple-evals)
@@ -91,6 +94,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
+- **Awesome Deep Research Agent** [[List]](https://github.com/ai-agents-2030/awesome-deep-research-agent) - covering deep research agents and benchmark results
 - **Awesome-Agent-RL** [[List]](https://github.com/0russwest0/Awesome-Agent-RL) - covering RL for research agents
 - **awesome-ml-agents** [[List]](https://github.com/tokarev-i-v/awesome-llm-rl-agents) - covering rl and agents before 2023
 
