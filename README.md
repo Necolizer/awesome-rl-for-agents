@@ -18,6 +18,9 @@ A curated list of reinforcement learning (RL) for agents.
 ---
 
 ## 📚 Papers & Research
+### Survey & Review
+- **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
+
 ### RL for Computer-using Agents
 - **InfiGUI-R1**: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners [[Preprint'25]](https://arxiv.org/abs/2504.14239) [[Code]](https://github.com/Reallm-Labs/InfiGUI-R1)
 - **Cracking the Code of Action**: a Generative Approach to Affordances for Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.17282)
@@ -47,6 +50,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [[Preprint'25]](https://arxiv.org/abs/2503.06580) [[Code]](https://github.com/ADaM-BJTU/AutoCoA)
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
 
+### RL for Agent Memory
+- **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
+
 ### RL for Agent Planning
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
@@ -60,9 +66,6 @@ A curated list of reinforcement learning (RL) for agents.
 - **LIMR**: Less is More for RL Scaling [[Preprint'25]](https://arxiv.org/abs/2502.11886) [[Code]](https://github.com/GAIR-NLP/LIMR)
 - **DeepSeek-R1**: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2501.12948)
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
-
-### Survey & Review
-- **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
 
 ## 🕹 Benchmarks
 - **xbench**: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations [[Preprint'25]](https://arxiv.org/abs/2506.13651) [[Website]](https://xbench.org/)
@@ -95,6 +98,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 
 ## 📄 Tutorials & Blog Posts
+- **Context Engineering** [[Github]](https://github.com/davidkimai/Context-Engineering)
 - **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
