@@ -51,6 +51,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
 
 ### RL for Agent Memory
+- **MemAgent**: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent [[Preprint'25]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent)
 - **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
 
 ### RL for Agent Planning
