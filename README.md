@@ -99,6 +99,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 
 ## 📄 Tutorials & Blog Posts
+- **Introducing ChatGPT agent**: bridging research and action [[Blog]](https://openai.com/index/introducing-chatgpt-agent/)
 - **Context Engineering** [[Github]](https://github.com/davidkimai/Context-Engineering)
 - **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
