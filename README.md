@@ -29,7 +29,8 @@ A curated list of reinforcement learning (RL) for agents.
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Research Agents
-- **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592)
+- **WebShaper**: Towards Autonomous Information Seeking Agency [[Preprint'25]](https://arxiv.org/abs/2507.15061) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
+- **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 - **Kimi-Researcher**: End-to-End RL Training for Emerging Agentic Capabilities [[Blog]](https://moonshotai.github.io/Kimi-Researcher/)
 - **R-Search**: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2506.04185) [[Code]](https://github.com/QingFei1/R-Search)
