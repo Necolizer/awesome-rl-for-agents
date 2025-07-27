@@ -55,9 +55,6 @@ A curated list of reinforcement learning (RL) for agents.
 - **MemAgent**: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent [[Preprint'25]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent)
 - **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
 
-### RL for Agent Planning
-- **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
-
 ### Reinforcement Learning Scaling
 - **Skywork R1V2**: Multimodal Hybrid Reinforcement Learning for Reasoning [[Preprint'25]](https://arxiv.org/abs/2504.16656) [[Model]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
 - A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce [[Preprint'25]](https://arxiv.org/abs/2504.11343)
@@ -68,6 +65,10 @@ A curated list of reinforcement learning (RL) for agents.
 - **LIMR**: Less is More for RL Scaling [[Preprint'25]](https://arxiv.org/abs/2502.11886) [[Code]](https://github.com/GAIR-NLP/LIMR)
 - **DeepSeek-R1**: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2501.12948)
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
+
+### Others
+- **UFO**: A Simple "Try Again" Can Elicit Multi-Turn LLM Reasoning [[Preprint'25]](https://arxiv.org/abs/2507.14295) [[Code]](https://github.com/lichengliu03/unary-feedback)
+- **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ## 🕹 Benchmarks
 - **xbench**: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations [[Preprint'25]](https://arxiv.org/abs/2506.13651) [[Website]](https://xbench.org/)
