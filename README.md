@@ -22,6 +22,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
 
 ### RL for Computer-using Agents
+- **ARPO**:End-to-End Policy Optimization for GUI Agents with Experience Replay [[Preprint'25]](https://arxiv.org/abs/2505.16282) [[Code]](https://github.com/dvlab-research/ARPO)
 - **InfiGUI-R1**: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners [[Preprint'25]](https://arxiv.org/abs/2504.14239) [[Code]](https://github.com/Reallm-Labs/InfiGUI-R1)
 - **Cracking the Code of Action**: a Generative Approach to Affordances for Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.17282)
 - **UI-R1**: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs//2503.21620) [[Code]](https://github.com/lll6gg/UI-R1)
