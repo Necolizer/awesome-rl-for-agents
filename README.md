@@ -22,7 +22,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
 
 ### RL for Computer-using Agents
-- **ARPO**:End-to-End Policy Optimization for GUI Agents with Experience Replay [[Preprint'25]](https://arxiv.org/abs/2505.16282) [[Code]](https://github.com/dvlab-research/ARPO)
+- **ARPO**: End-to-End Policy Optimization for GUI Agents with Experience Replay [[Preprint'25]](https://arxiv.org/abs/2505.16282) [[Code]](https://github.com/dvlab-research/ARPO)
 - **InfiGUI-R1**: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners [[Preprint'25]](https://arxiv.org/abs/2504.14239) [[Code]](https://github.com/Reallm-Labs/InfiGUI-R1)
 - **Cracking the Code of Action**: a Generative Approach to Affordances for Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.17282)
 - **UI-R1**: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs//2503.21620) [[Code]](https://github.com/lll6gg/UI-R1)
@@ -30,6 +30,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Research Agents
+- **Cognitive Kernel-Pro**: A Framework for Deep Research Agents and Agent Foundation Models Training [[Preprint'25]](https://arxiv.org/abs/2508.00414) [[Code]](https://github.com/Tencent/CognitiveKernel-Pro)
 - **WebShaper**: Towards Autonomous Information Seeking Agency [[Preprint'25]](https://arxiv.org/abs/2507.15061) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
