@@ -30,6 +30,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Research Agents
+- **MiroMind Open Deep Research** [[Blog]](https://miromind.ai/blog/miromind-open-deep-research) [[Code]](https://github.com/MiroMindAI)
 - **Cognitive Kernel-Pro**: A Framework for Deep Research Agents and Agent Foundation Models Training [[Preprint'25]](https://arxiv.org/abs/2508.00414) [[Code]](https://github.com/Tencent/CognitiveKernel-Pro)
 - **WebShaper**: Towards Autonomous Information Seeking Agency [[Preprint'25]](https://arxiv.org/abs/2507.15061) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
