@@ -74,6 +74,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ## 🕹 Benchmarks
+- **BrowseComp-Plus**: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent [[Preprint'25]](https://arxiv.org/abs/2508.06600v1) [[Huggingface]](https://huggingface.co/datasets/Tevatron/browsecomp-plus)
 - **xbench**: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations [[Preprint'25]](https://arxiv.org/abs/2506.13651) [[Website]](https://xbench.org/)
 - **BrowseComp-ZH**: Benchmarking the Web Browsing Ability of Large Language Models in Chinese [[Preprint'25]](https://arxiv.org/abs/2504.19314) [[Code]](https://github.com/PALIN2018/BrowseComp-ZH)
 - **BrowseComp**: a benchmark for browsing agents [[Blog]](https://openai.com/index/browsecomp/) [[Paper]](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) [[Code]](https://github.com/openai/simple-evals)
