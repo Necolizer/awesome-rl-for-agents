@@ -46,7 +46,6 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Tool-using Problem Solver
-- Self-Challenging Language Model Agents [[Preprint'25]](https://arxiv.org/abs/2506.01716v1)
 - **VisualToolAgent (VisTA)**: A Reinforcement Learning Framework for Visual Tool Selection [[Preprint'25]](https://arxiv.org/abs/2505.20289) [[Code]](https://github.com/OoDBag/VisTA)
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
 - **ToolRL**: Reward is All Tool Learning Needs [[Preprint'25]](https://arxiv.org/abs/2504.13958) [[Code]](https://github.com/qiancheng0/ToolRL)
@@ -71,6 +70,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### Others
 - **UFO**: A Simple "Try Again" Can Elicit Multi-Turn LLM Reasoning [[Preprint'25]](https://arxiv.org/abs/2507.14295) [[Code]](https://github.com/lichengliu03/unary-feedback)
+- Self-Challenging Language Model Agents [[Preprint'25]](https://arxiv.org/abs/2506.01716v1)
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ## 🕹 Benchmarks
