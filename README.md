@@ -31,6 +31,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Research Agents
 - **MiroMind Open Deep Research** [[Blog]](https://miromind.ai/blog/miromind-open-deep-research) [[Code]](https://github.com/MiroMindAI)
+- **ARPO**: Agentic Reinforced Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.19849) [[Code]](https://github.com/dongguanting/ARPO)
 - **Cognitive Kernel-Pro**: A Framework for Deep Research Agents and Agent Foundation Models Training [[Preprint'25]](https://arxiv.org/abs/2508.00414) [[Code]](https://github.com/Tencent/CognitiveKernel-Pro)
 - **WebShaper**: Towards Autonomous Information Seeking Agency [[Preprint'25]](https://arxiv.org/abs/2507.15061) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
