@@ -2,7 +2,7 @@
 
 A curated list of reinforcement learning (RL) for agents.
 
-> This list collects papers, tools, and demos that demonstrate how reinforcement learning can be applied to train or tune LLM/MLLM agents, with a focus on research-driven, computer-using, and tool-integrated agent behaviors.
+> This list collects papers, tools, and demos that demonstrate how reinforcement learning can be applied to train or tune LLM/MLLM agents, with a focus on research-driven, computer-using, and tool-integrated agent behaviors. It is not associated with any survey or review — just a personal, living collection of resources on RL for agents. I’ll keep updating it as long as I’m still working in this area.
 ---
 
 ## Table of Contents
@@ -19,6 +19,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 📚 Papers & Research
 ### Survey & Review
+- A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges [[Preprint'25]](https://arxiv.org/abs/2508.05668) [[AwesomeList]](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers)
 - **Deep Research Agents**: A Systematic Examination And Roadmap [[Preprint'25]](https://arxiv.org/abs/2506.18096) [[AwesomeList]](https://github.com/ai-agents-2030/awesome-deep-research-agent)
 
 ### RL for Computer-using Agents
@@ -112,6 +113,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
+- **Awesome-Search-Agent-Papers** [[List]](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers) - covering search agent papers
 - **Awesome Deep Research Agent** [[List]](https://github.com/ai-agents-2030/awesome-deep-research-agent) - covering deep research agents and benchmark results
 - **Awesome-Agent-RL** [[List]](https://github.com/0russwest0/Awesome-Agent-RL) - covering RL for research agents
 - **awesome-ml-agents** [[List]](https://github.com/tokarev-i-v/awesome-llm-rl-agents) - covering rl and agents before 2023
