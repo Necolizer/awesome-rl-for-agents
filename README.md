@@ -64,6 +64,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
 
 ### Reinforcement Learning Scaling
+- Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
 - **Skywork R1V2**: Multimodal Hybrid Reinforcement Learning for Reasoning [[Preprint'25]](https://arxiv.org/abs/2504.16656) [[Model]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
 - A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce [[Preprint'25]](https://arxiv.org/abs/2504.11343)
 - **o3 & o4-mini**: Introducing OpenAI o3 and o4-mini [[Blog]](https://openai.com/index/introducing-o3-and-o4-mini/)
