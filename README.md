@@ -32,6 +32,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **AutoWebGLM**: A Large Language Model-based Web Navigating Agent [[KDD'24]](https://dl.acm.org/doi/10.1145/3637528.3671620) [[Preprint'24]](https://arxiv.org/abs/2404.03648) [[Code]](https://github.com/THUDM/AutoWebGLM)
 
 ### RL for Research Agents
+- **Tongyi DeepResearch**: A New Era of Open-Source AI Researchers [[Blog]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
 - **SSRL**: Self-Search Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2508.10874) [[Code]](https://github.com/TsinghuaC3I/SSRL)
 - Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL [[Preprint'25]](https://arxiv.org/abs/2508.07976v2) [[Code]](https://github.com/inclusionAI/ASearcher)
 - **MiroMind Open Deep Research** [[Blog]](https://miromind.ai/blog/miromind-open-deep-research) [[Code]](https://github.com/MiroMindAI)
