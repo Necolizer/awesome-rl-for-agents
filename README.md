@@ -33,7 +33,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Research Agents
 - Tree Search for LLM Agent Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2509.21240)
-- **Tongyi DeepResearch**: A New Era of Open-Source AI Researchers [[Blog]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
+- **Tongyi DeepResearch**: A New Era of Open-Source AI Researchers [[Blog]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) [[Code]](https://github.com/Alibaba-NLP/DeepResearch)
 - **SSRL**: Self-Search Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2508.10874) [[Code]](https://github.com/TsinghuaC3I/SSRL)
 - Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL [[Preprint'25]](https://arxiv.org/abs/2508.07976v2) [[Code]](https://github.com/inclusionAI/ASearcher)
 - **MiroMind Open Deep Research** [[Blog]](https://miromind.ai/blog/miromind-open-deep-research) [[Code]](https://github.com/MiroMindAI)
