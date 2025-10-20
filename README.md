@@ -86,6 +86,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 - **FinSearchComp**: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning [[Preprint'25]](https://arxiv.org/abs/2509.13160) [[Code]](https://randomtutu.github.io/FinSearchComp/)
+- **MM-BrowseComp**: A Comprehensive Benchmark for Multimodal Browsing Agents [[Preprint'25]](https://arxiv.org/abs/2508.13186) [[Code]](https://github.com/MMBrowseComp/MM-BrowseComp)
 - **BrowseComp-Plus**: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent [[Preprint'25]](https://arxiv.org/abs/2508.06600v1) [[Huggingface]](https://huggingface.co/datasets/Tevatron/browsecomp-plus)
 - **xbench**: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations [[Preprint'25]](https://arxiv.org/abs/2506.13651) [[Website]](https://xbench.org/)
 - **BrowseComp-ZH**: Benchmarking the Web Browsing Ability of Large Language Models in Chinese [[Preprint'25]](https://arxiv.org/abs/2504.19314) [[Code]](https://github.com/PALIN2018/BrowseComp-ZH)
