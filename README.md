@@ -88,6 +88,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ## 🕹 Benchmarks
+- **Marco Search Agent**: Towards Real‑World and Challenging Agentic Search (including HSCodeComp and DeepWideSearch) [[Preprint'25(1)]](https://arxiv.org/abs/2510.19631) [[Preprint'25(2)]](https://arxiv.org/abs/2510.20168) [[Code]](https://github.com/AIDC-AI/Marco-Search-Agent)
 - **FinSearchComp**: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning [[Preprint'25]](https://arxiv.org/abs/2509.13160) [[Code]](https://randomtutu.github.io/FinSearchComp/)
 - **MM-BrowseComp**: A Comprehensive Benchmark for Multimodal Browsing Agents [[Preprint'25]](https://arxiv.org/abs/2508.13186) [[Code]](https://github.com/MMBrowseComp/MM-BrowseComp)
 - **BrowseComp-Plus**: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent [[Preprint'25]](https://arxiv.org/abs/2508.06600v1) [[Huggingface]](https://huggingface.co/datasets/Tevatron/browsecomp-plus)
