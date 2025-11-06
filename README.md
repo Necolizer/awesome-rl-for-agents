@@ -55,6 +55,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
 ### RL for Tool-using Problem Solver
+- Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2510.23038)
 - **VerlTool**: Towards Holistic Agentic Reinforcement Learning with Tool Use [[Preprint'25]](https://arxiv.org/abs/2509.01055) [[Code]](https://github.com/TIGER-AI-Lab/verl-tool)
 - **VisualToolAgent (VisTA)**: A Reinforcement Learning Framework for Visual Tool Selection [[Preprint'25]](https://arxiv.org/abs/2505.20289) [[Code]](https://github.com/OoDBag/VisTA)
 - **OTC**: Optimal Tool Calls via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2504.14870)
