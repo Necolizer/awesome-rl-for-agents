@@ -43,7 +43,6 @@ A curated list of reinforcement learning (RL) for agents.
 - **Cognitive Kernel-Pro**: A Framework for Deep Research Agents and Agent Foundation Models Training [[Preprint'25]](https://arxiv.org/abs/2508.00414) [[Code]](https://github.com/Tencent/CognitiveKernel-Pro)
 - **WebShaper**: Towards Autonomous Information Seeking Agency [[Preprint'25]](https://arxiv.org/abs/2507.15061) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
 - **WebSailor**: Navigating Super-human Reasoning for Web Agent [[Preprint'25]](https://arxiv.org/abs/2507.02592) [[Code]](https://github.com/Alibaba-NLP/WebAgent)
-- **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 - **Kimi-Researcher**: End-to-End RL Training for Emerging Agentic Capabilities [[Blog]](https://moonshotai.github.io/Kimi-Researcher/)
 - **R-Search**: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2506.04185) [[Code]](https://github.com/QingFei1/R-Search)
 - **R1-Searcher++**: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.17005) [[Code]](https://github.com/RUCAIBox/R1-Searcher-plus)
@@ -70,6 +69,10 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL for Agent Memory
 - **MemAgent**: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent [[Preprint'25]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent)
 - **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
+
+### RL for Multi-Modal Agent (Thinking w Image / MMSearch)
+- **DeepEyesV2**: Toward Agentic Multimodal Model [[Preprint'25]](https://arxiv.org/abs/2511.05271v1) [[Code]](https://github.com/Visual-Agent/DeepEyesV2)
+- **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 
 ### Reinforcement Learning Scaling
 - Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
