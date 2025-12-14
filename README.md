@@ -76,6 +76,7 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL for Multi-Modal Agent (Thinking w Image / MMSearch)
 - **DeepEyesV2**: Toward Agentic Multimodal Model [[Preprint'25]](https://arxiv.org/abs/2511.05271v1) [[Code]](https://github.com/Visual-Agent/DeepEyesV2)
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
+- **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
 
 ### Reinforcement Learning Scaling
 - Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
