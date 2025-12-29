@@ -65,6 +65,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **TORL**: Scaling Tool-Integrated RL [[Preprint'25]](https://arxiv.org/pdf/2503.23383) [[Code]](https://github.com/GAIR-NLP/ToRL)
 
 ### Self-Playing Agent with RL
+- Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Preprint'25]](https://arxiv.org/abs/2512.18552)
 - **Agent0-VL**: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning [[Preprint'25]](https://arxiv.org/abs/2511.19900) [[Code]](https://github.com/aiming-lab/Agent0)
 - **Agent0**: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning [[Preprint'25]](https://arxiv.org/abs/2511.16043) [[Code]](https://github.com/aiming-lab/Agent0)
 - **Search Self-play**: Pushing the Frontier of Agent Capability without Supervision [[Preprint'25]](https://arxiv.org/abs/2510.18821) [[Code]](https://github.com/Alibaba-Quark/SSP)
