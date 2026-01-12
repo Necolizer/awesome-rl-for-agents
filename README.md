@@ -80,6 +80,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
 
 ### Reinforcement Learning Scaling
+- The Art of Scaling Reinforcement Learning Compute for LLMs [[Preprint'25]](https://arxiv.org/abs/2510.13786)
 - Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
 - **Skywork R1V2**: Multimodal Hybrid Reinforcement Learning for Reasoning [[Preprint'25]](https://arxiv.org/abs/2504.16656) [[Model]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
 - A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce [[Preprint'25]](https://arxiv.org/abs/2504.11343)
