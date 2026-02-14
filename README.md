@@ -76,6 +76,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **MEM1**: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Preprint'25]](https://arxiv.org/abs/2506.15841)
 
 ### RL for Multi-Modal Agent (Thinking w Image / MMSearch)
+- **Zooming without Zooming**: Region-to-Image Distillation for Fine-Grained Multimodal Perception [[Preprint'26]](https://arxiv.org/abs/2602.11858) [[Code]](https://github.com/inclusionAI/Zooming-without-Zooming)
 - **DeepEyesV2**: Toward Agentic Multimodal Model [[Preprint'25]](https://arxiv.org/abs/2511.05271v1) [[Code]](https://github.com/Visual-Agent/DeepEyesV2)
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 - **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
