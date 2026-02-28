@@ -132,6 +132,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Agent2Agent (A2A) protocol** [[Code]](https://github.com/google/A2A)
 
 ## 🧰 Toolkits & Frameworks
+- **rLLM**: Reinforcement Learning for Language Agents [[Code]](https://github.com/rllm-org/rllm)
 - **slime**: An SGLang-Native Post-Training Framework for RL Scaling [[Code]](https://github.com/THUDM/slime)
 - **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [[Code]](https://github.com/alibaba/ROLL)
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
