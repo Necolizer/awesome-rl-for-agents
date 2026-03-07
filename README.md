@@ -82,6 +82,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 - **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
 
+### RL with Agent Skills
+- **SkillRL**: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning [[Preprint'26]](https://arxiv.org/abs/2602.08234) [[Code]](https://github.com/aiming-lab/SkillRL)
+
 ### Reinforcement Learning Scaling
 - The Art of Scaling Reinforcement Learning Compute for LLMs [[Preprint'25]](https://arxiv.org/abs/2510.13786)
 - Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
@@ -117,6 +120,7 @@ A curated list of reinforcement learning (RL) for agents.
 ## 🧪 Demos & Projects
 
 ### RL-based LLM agent tuning
+- **Claw-R1**: Empowering OpenClaw with Advanced Agentic RL [[Page]](https://agentr1.github.io/Claw-R1/) [[Code]](https://github.com/AgentR1/Claw-R1)
 - **SkyRL-v0**: Train Real-World Long-Horizon Agents via Reinforcement Learning [[Blog]](https://novasky-ai.notion.site/skyrl-v0) [[Code]](https://github.com/NovaSky-AI/SkyRL)
 - **Agent-R1**: Training Powerful LLM Agents with End-to-End Reinforcement Learning [[Code]](https://github.com/0russwest0/Agent-R1)
 - **VAGEN**: Training VLM Agents with Multi-Turn Reinforcement Learning [[Code]](https://github.com/RAGEN-AI/vagen)
