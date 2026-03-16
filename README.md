@@ -50,9 +50,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **R-Search**: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2506.04185) [[Code]](https://github.com/QingFei1/R-Search)
 - **R1-Searcher++**: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.17005) [[Code]](https://github.com/RUCAIBox/R1-Searcher-plus)
 - **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [[Preprint'25]](https://arxiv.org/abs/2505.04588) [[Code]](https://github.com/Alibaba-nlp/ZeroSearch)
-- **DeepResearcher**: Scaling Deep Research via Reinforcement Learning in Real-world Environments [[Preprint'25]](https://arxiv.org/abs/2504.03160) [[Code]](https://github.com/GAIR-NLP/DeepResearcher)
+- **DeepResearcher**: Scaling Deep Research via Reinforcement Learning in Real-world Environments [[EMNLP'25]](https://arxiv.org/abs/2504.03160) [[Code]](https://github.com/GAIR-NLP/DeepResearcher)
 - **ReCall**: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.19470) [[Code]](https://github.com/Agent-RL/ReCall)
-- **Search-R1**: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.09516) [[Code]](https://github.com/petergriffinjin/search-r1)
+- **Search-R1**: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [[COLM'25]](https://arxiv.org/abs/2503.09516) [[Code]](https://github.com/petergriffinjin/search-r1)
 - **R1-Searcher**: Incentivizing the Search Capability in LLMs via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2503.05592) [[Code]](https://github.com/RUCAIBox/R1-Searcher)
 - **Agentic Reasoning**: Reasoning LLMs with Tools for the Deep Research [[Preprint'25]](https://arxiv.org/abs/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
@@ -70,7 +70,7 @@ A curated list of reinforcement learning (RL) for agents.
 - Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Preprint'25]](https://arxiv.org/abs/2512.18552)
 - **Agent0-VL**: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning [[Preprint'25]](https://arxiv.org/abs/2511.19900) [[Code]](https://github.com/aiming-lab/Agent0)
 - **Agent0**: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning [[Preprint'25]](https://arxiv.org/abs/2511.16043) [[Code]](https://github.com/aiming-lab/Agent0)
-- **Search Self-play**: Pushing the Frontier of Agent Capability without Supervision [[Preprint'25]](https://arxiv.org/abs/2510.18821) [[Code]](https://github.com/Alibaba-Quark/SSP)
+- **Search Self-play**: Pushing the Frontier of Agent Capability without Supervision [[ICLR'26]](https://arxiv.org/abs/2510.18821) [[Code]](https://github.com/Alibaba-Quark/SSP)
 
 ### RL for Agent Memory
 - **MemAgent**: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent [[Preprint'25]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent)
@@ -78,9 +78,9 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Multi-Modal Agent (Thinking w Image / MMSearch)
 - **Zooming without Zooming**: Region-to-Image Distillation for Fine-Grained Multimodal Perception [[Preprint'26]](https://arxiv.org/abs/2602.11858) [[Code]](https://github.com/inclusionAI/Zooming-without-Zooming)
-- **DeepEyesV2**: Toward Agentic Multimodal Model [[Preprint'25]](https://arxiv.org/abs/2511.05271v1) [[Code]](https://github.com/Visual-Agent/DeepEyesV2)
+- **DeepEyesV2**: Toward Agentic Multimodal Model [[ICLR'26]](https://arxiv.org/abs/2511.05271v1) [[Code]](https://github.com/Visual-Agent/DeepEyesV2)
 - **MMSearch-R1**: Incentivizing LMMs to Search [[Preprint'25]](https://arxiv.org/abs/2506.20670) [[Code]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
-- **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
+- **DeepEyes**: Incentivizing "Thinking with Images" via Reinforcement Learning [[ICLR'26]](https://arxiv.org/abs/2505.14362) [[Code]](https://github.com/Visual-Agent/DeepEyes)
 
 ### RL with Agent Skills
 - **SkillRL**: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning [[Preprint'26]](https://arxiv.org/abs/2602.08234) [[Code]](https://github.com/aiming-lab/SkillRL)
@@ -109,7 +109,8 @@ A curated list of reinforcement learning (RL) for agents.
 - **AgentVista**: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios [[Preprint'26]](https://arxiv.org/abs/2602.23166) [[Code]](https://github.com/hkust-nlp/AgentVista)
 - **Marco Search Agent**: Towards Real‑World and Challenging Agentic Search (including HSCodeComp and DeepWideSearch) [[Preprint'25(1)]](https://arxiv.org/abs/2510.19631) [[Preprint'25(2)]](https://arxiv.org/abs/2510.20168) [[Code]](https://github.com/AIDC-AI/Marco-Search-Agent)
 - **FinSearchComp**: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning [[Preprint'25]](https://arxiv.org/abs/2509.13160) [[Code]](https://randomtutu.github.io/FinSearchComp/)
-- **MM-BrowseComp**: A Comprehensive Benchmark for Multimodal Browsing Agents [[Preprint'25]](https://arxiv.org/abs/2508.13186) [[Code]](https://github.com/MMBrowseComp/MM-BrowseComp)
+- **MMSearch-Plus**: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents [[Preprint'25]](https://arxiv.org/abs/2508.21475) [[Code]](https://github.com/mmsearch-plus/MMSearch-Plus)
+- **MM-BrowseComp**: A Comprehensive Benchmark for Multimodal Browsing Agents [[ICLR'26]](https://arxiv.org/abs/2508.13186) [[Code]](https://github.com/MMBrowseComp/MM-BrowseComp)
 - **BrowseComp-Plus**: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent [[Preprint'25]](https://arxiv.org/abs/2508.06600v1) [[Huggingface]](https://huggingface.co/datasets/Tevatron/browsecomp-plus)
 - **xbench**: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations [[Preprint'25]](https://arxiv.org/abs/2506.13651) [[Website]](https://xbench.org/)
 - **BrowseComp-ZH**: Benchmarking the Web Browsing Ability of Large Language Models in Chinese [[Preprint'25]](https://arxiv.org/abs/2504.19314) [[Code]](https://github.com/PALIN2018/BrowseComp-ZH)
