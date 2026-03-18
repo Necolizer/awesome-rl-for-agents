@@ -155,6 +155,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **The Second Half** [[Blog]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
+- **Awesome RL-based Agentic Search Papers** [[List]](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers) - covering Agentic RL papers in agentic search systems
 - **Agent-Memory-Paper-List** [[List]](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - covering agent memory papers
 - **Awesome-AgenticLLM-RL-Papers** [[List]](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) - covering Agentic RL papers in both agentic capabilities and applications
 - **Awesome-Search-Agent-Papers** [[List]](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers) - covering search agent papers
