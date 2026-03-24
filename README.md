@@ -106,6 +106,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 ### Deep research
+- **OmniGAIA**: Towards Native Omni-Modal AI Agents [[Preprint'26]](https://arxiv.org/abs/2602.22897) [[Code]](https://github.com/RUC-NLPIR/OmniGAIA)
 - **Vision-DeepResearch Benchmark**: Rethinking Visual and Textual Search for Multimodal Large Language Models [[Preprint'26]](https://arxiv.org/abs/2602.02185) [[Code]](https://github.com/Osilly/Vision-DeepResearch)
 - **AgentVista**: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios [[Preprint'26]](https://arxiv.org/abs/2602.23166) [[Code]](https://github.com/hkust-nlp/AgentVista)
 - Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning [[Preprint'26]](https://arxiv.org/abs/2601.06943) [[Code]](https://github.com/QuantaAlpha/VideoDR-Benchmark)
