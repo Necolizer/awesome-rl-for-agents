@@ -105,6 +105,9 @@ A curated list of reinforcement learning (RL) for agents.
 - **MPO**: Boosting LLM Agents with Meta Plan Optimization [[Preprint'25]](https://arxiv.org/abs/2503.02682) [[Code]](https://github.com/WeiminXiong/MPO)
 
 ## 🕹 Benchmarks
+### CLI
+- **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/)
+
 ### Deep research
 - **OmniGAIA**: Towards Native Omni-Modal AI Agents [[Preprint'26]](https://arxiv.org/abs/2602.22897) [[Code]](https://github.com/RUC-NLPIR/OmniGAIA)
 - **Vision-DeepResearch Benchmark**: Rethinking Visual and Textual Search for Multimodal Large Language Models [[Preprint'26]](https://arxiv.org/abs/2602.02185) [[Code]](https://github.com/Osilly/Vision-DeepResearch)
