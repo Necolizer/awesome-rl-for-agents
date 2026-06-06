@@ -106,6 +106,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 ### CLI
+- **Harbor**: A framework for evaluating and optimizing agents and models in container environments [[Code]](https://github.com/harbor-framework/harbor)
 - **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/)
 
 ### Deep research
