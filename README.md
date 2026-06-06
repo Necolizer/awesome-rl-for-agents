@@ -132,6 +132,7 @@ A curated list of reinforcement learning (RL) for agents.
 ## 🧪 Demos & Projects
 
 ### RL-based LLM agent tuning
+- **Terminal-Bench-RL**: Training Long-Horizon Terminal Agents with Reinforcement Learning [[Code]](https://github.com/Danau5tin/terminal-bench-rl)
 - **Claw-R1**: Empowering OpenClaw with Advanced Agentic RL [[Page]](https://agentr1.github.io/Claw-R1/) [[Code]](https://github.com/AgentR1/Claw-R1)
 - **SkyRL-v0**: Train Real-World Long-Horizon Agents via Reinforcement Learning [[Blog]](https://novasky-ai.notion.site/skyrl-v0) [[Code]](https://github.com/NovaSky-AI/SkyRL)
 - **Agent-R1**: Training Powerful LLM Agents with End-to-End Reinforcement Learning [[Code]](https://github.com/0russwest0/Agent-R1)
