@@ -107,7 +107,6 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 ### CLI
-- **Harbor**: A framework for evaluating and optimizing agents and models in container environments [[Code]](https://github.com/harbor-framework/harbor)
 - **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/)
 
 ### Deep research
@@ -155,6 +154,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [[Code]](https://github.com/alibaba/ROLL)
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 - **HUD**: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [[Code]](https://github.com/hud-evals/hud-python)
+- **Harbor**: A framework for evaluating and optimizing agents and models in container environments [[Code]](https://github.com/harbor-framework/harbor)
 
 ## 📄 Tutorials & Blog Posts
 - **Forge**: Scalable Agent RL Framework and Algorithm [[Blog]](https://www.minimax.io/news/forge-scalable-agent-rl-framework-and-algorithm)
