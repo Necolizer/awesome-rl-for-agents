@@ -153,6 +153,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **slime**: An SGLang-Native Post-Training Framework for RL Scaling [[Code]](https://github.com/THUDM/slime)
 - **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [[Code]](https://github.com/alibaba/ROLL)
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
+- **HUD**: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [[Code]](https://github.com/hud-evals/hud-python)
 
 ## 📄 Tutorials & Blog Posts
 - **Forge**: Scalable Agent RL Framework and Algorithm [[Blog]](https://www.minimax.io/news/forge-scalable-agent-rl-framework-and-algorithm)
