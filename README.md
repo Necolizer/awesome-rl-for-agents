@@ -108,7 +108,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 ### CLI
-- **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/)
+- **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/) [[Code]](https://github.com/harbor-framework/terminal-bench)
 
 ### Deep research
 - **OmniGAIA**: Towards Native Omni-Modal AI Agents [[Preprint'26]](https://arxiv.org/abs/2602.22897) [[Code]](https://github.com/RUC-NLPIR/OmniGAIA)
@@ -125,6 +125,8 @@ A curated list of reinforcement learning (RL) for agents.
 - **BrowseComp**: a benchmark for browsing agents [[Blog]](https://openai.com/index/browsecomp/) [[Paper]](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) [[Code]](https://github.com/openai/simple-evals)
 
 ### Computer Use
+- **OSWorld 2.0**: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks [[Preprint'26]](https://arxiv.org/abs/2606.29537) [[Code]](https://github.com/xlang-ai/OSWorld-V2) 
+- **Agents' Last Exam** [[Preprint'26]](https://arxiv.org/abs/2606.05405) [[Code]](https://github.com/rdi-berkeley/agents-last-exam) [[Website]](https://agents-last-exam.org/)
 - **ClawBench**: Can AI Agents Complete Everyday Online Tasks? [[Preprint'26]](https://arxiv.org/abs/2604.08523) [[Code]](https://github.com/TIGER-AI-Lab/ClawBench) [[Website]](https://claw-bench.com/)
 - **Computer Agent Arena**: Compare & Test AI Agents on Crowdsourced Real-World Computer Use Tasks [[Platform]](https://arena.xlang.ai/) [[Code]](https://github.com/xlang-ai/computer-agent-arena)
 - **ScreenSpot-Pro**: GUI Grounding for Professional High-Resolution Computer Use [[Paper]](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf) [[Code]](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
