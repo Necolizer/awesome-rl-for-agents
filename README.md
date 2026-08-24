@@ -100,6 +100,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
 
 ### Others
+- **dots3-note Preview**: A Small but Mighty Step Toward Long-Horizon Agency in Real Life [[Blog]](https://studio.dots.ai/dots/dots3-en.html) [[Code]](https://github.com/studio-dots-ai/dots3-note-prev)
 - Seed-1.8 [[Code]](https://github.com/ByteDance-Seed/Seed-1.8)
 - **UFO**: A Simple "Try Again" Can Elicit Multi-Turn LLM Reasoning [[Preprint'25]](https://arxiv.org/abs/2507.14295) [[Code]](https://github.com/lichengliu03/unary-feedback)
 - Self-Challenging Language Model Agents [[Preprint'25]](https://arxiv.org/abs/2506.01716v1)
