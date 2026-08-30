@@ -159,6 +159,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **verl**: Volcano Engine Reinforcement Learning for LLM [[Code]](https://github.com/volcengine/verl)
 - **HUD**: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [[Code]](https://github.com/hud-evals/hud-python)
 - **Harbor**: A framework for evaluating and optimizing agents and models in container environments [[Code]](https://github.com/harbor-framework/harbor)
+- **AgentCreditBench**: Exact-oracle, CPU-only conformance tests for turn-level credit assignment and advantage estimators in agentic RL [[Website]](https://hectopascal.github.io/agent-credit-bench/) [[Code]](https://github.com/hectopascal/agent-credit-bench)
 
 ## 📄 Tutorials & Blog Posts
 - **Forge**: Scalable Agent RL Framework and Algorithm [[Blog]](https://www.minimax.io/news/forge-scalable-agent-rl-framework-and-algorithm)
