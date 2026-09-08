@@ -86,6 +86,8 @@ A curated list of reinforcement learning (RL) for agents.
 ### RL with Agent Skills
 - **SkillRL**: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning [[Preprint'26]](https://arxiv.org/abs/2602.08234) [[Code]](https://github.com/aiming-lab/SkillRL)
 
+- **Harness-Aware Training (HAT)**: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report [[Preprint'26]](https://arxiv.org/abs/2608.15763) [[Project]](https://sunyuhan19981208.github.io/Harness-Aware-Training/) — Reinforcement learning across augmented skills, tools, prompts, and hooks for adaptation to harness changes.
+
 ### Reinforcement Learning Scaling
 - The Art of Scaling Reinforcement Learning Compute for LLMs [[Preprint'25]](https://arxiv.org/abs/2510.13786)
 - Group Sequence Policy Optimization [[Preprint'25]](https://arxiv.org/abs/2507.18071)
