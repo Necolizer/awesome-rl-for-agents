@@ -59,6 +59,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Tool-using Problem Solver
 - **DRACO**: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [[Preprint'26]](https://arxiv.org/abs/2609.04094) [[Code]](https://github.com/IBM/draco)
+- **ToolMaster**: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction [[Preprint'26]](https://arxiv.org/abs/2601.12762) [[Code]](https://github.com/NEUIR/ToolMaster)
 - Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning [[Preprint'25]](https://arxiv.org/abs/2510.23038)
 - **VerlTool**: Towards Holistic Agentic Reinforcement Learning with Tool Use [[Preprint'25]](https://arxiv.org/abs/2509.01055) [[Code]](https://github.com/TIGER-AI-Lab/verl-tool)
 - **VisualToolAgent (VisTA)**: A Reinforcement Learning Framework for Visual Tool Selection [[Preprint'25]](https://arxiv.org/abs/2505.20289) [[Code]](https://github.com/OoDBag/VisTA)
