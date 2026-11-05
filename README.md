@@ -104,6 +104,7 @@ A curated list of reinforcement learning (RL) for agents.
 - **Kimi k1.5**: Scaling Reinforcement Learning with LLMs [[Preprint'25]](https://arxiv.org/abs/2501.12599)
 
 ### Others
+- **NeuroMAS**: NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning [[Paper](https://openreview.net/pdf?id=psCz7NClif)] [[arXiv](https://arxiv.org/abs/2605.16757)] [[Code](https://github.com/haoranlustat/NeuroMAS)] – Role-free LLM agents in a layered text-passing topology, trained jointly with REINFORCE from a shared final reward; The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention.
 - **More Methods, Better Agents?** A Reality Check on Self-Distillation in Agentic Reinforcement Learning [[Preprint'26]](https://arxiv.org/abs/2610.19789) [[Code]](https://github.com/aim-uofa/Self-Distillation-AgentRL)
 - **dots3-note Preview**: A Small but Mighty Step Toward Long-Horizon Agency in Real Life [[Blog]](https://studio.dots.ai/dots/dots3-en.html) [[Code]](https://github.com/studio-dots-ai/dots3-note-prev)
 - Seed-1.8 [[Code]](https://github.com/ByteDance-Seed/Seed-1.8)
