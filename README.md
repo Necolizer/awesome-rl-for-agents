@@ -114,6 +114,7 @@ A curated list of reinforcement learning (RL) for agents.
 
 ## 🕹 Benchmarks
 ### CLI
+- **Science's Last Exam** [[Website]](https://sciences-last-exam.org/) [[Code]](https://github.com/Gen-Verse/Science-Last-Exam)
 - **Terminal-Bench-Science**: Evaluating AI agents on research workflows across scientific domains [[Website]](https://www.terminal-bench-science.ai/) [[Code]](https://github.com/harbor-framework/terminal-bench-science)
 - **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [[Preprint'26]](https://arxiv.org/abs/2601.11868) [[Website]](https://www.tbench.ai/) [[Code]](https://github.com/harbor-framework/terminal-bench)
 
